@@ -1,3 +1,6 @@
+#WaPOR Toolkit
+![Icon !](https://github.com/OpenWaterNetwork/WaPOR-Toolkit/blob/main/wt_icon.png)
+
 This QGIS plugin helps retrieve data from WaPOR for use at catchment or regional scale. It also allows local data to be integrated in the analysis.
 
 ![Screenshot !](https://github.com/OpenWaterNetwork/WaPOR-Toolkit/blob/main/images/screen_grab_1.png)
