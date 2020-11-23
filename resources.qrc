@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/WaPORToolkit" >
+        <file>wt_icon.png</file>
+    </qresource>
+</RCC>
